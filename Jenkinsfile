@@ -13,7 +13,7 @@ pipeline{
     }
     stage('stage3'){
       steps{
-        echo 'Now let's build a real CI CD pipeline'
+        echo "Now let's build a real CI CD pipeline"
       }
     }
   }
